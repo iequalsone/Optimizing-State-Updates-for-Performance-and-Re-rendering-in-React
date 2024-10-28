@@ -37,7 +37,7 @@ This example demonstrates how `useMemo` can cache expensive calculations, preven
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/iequalsone/Optimizing-State-Updates-for-Performance-and-Re-rendering-in-React/blob/main/LICENSE.txt) file for details.
 
 ---
 
